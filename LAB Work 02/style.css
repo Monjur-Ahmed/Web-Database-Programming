@@ -1,0 +1,63 @@
+body{
+    background-color: azure;
+   
+}
+
+.home{
+    background-image: url(https://monjurahmed.com/wp-content/uploads/2015/02/creative-hero-image-grey1.jpg);
+    background-position: bottom;
+    border-radius: 20px;
+    height: 400px;
+    text-align: center;
+    color: wheat;
+}
+
+
+.fth{
+   padding-top: 250px;
+}
+
+
+
+div.first{
+    background-color: red;
+    text-align: center;
+    color: white;
+
+    margin-top: 5px;
+    padding: 10px;
+
+}
+
+p.ok{
+    font-family: Impact;
+}
+
+.headline{
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 40px;
+    text-align: center;
+}
+
+div.second{
+    background-color: yellow;
+    margin-top: 5px;
+    padding: 10px;
+}
+
+
+#redbox{
+    margin: 5px;
+    padding: 5px;
+    border: red;
+    border-radius: 20px;
+}
+
+#yellobox{
+    
+    margin: 5px;
+    padding: 5px;
+    border: yellow;
+    border-radius: 20px;
+}
